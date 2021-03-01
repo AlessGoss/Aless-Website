@@ -16,10 +16,10 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 
-.a:hover {
+a:hover {
   background: #333;
 }
 
-.a:active {
+a:active {
   background: #555;
 }
